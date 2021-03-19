@@ -1,0 +1,1 @@
+# CompressaoLZ77
